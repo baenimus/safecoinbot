@@ -60,11 +60,17 @@ nohup node app.js &
 
 ## Invite bot to server
 
-Create a discord bot
+Follow this tutorial to create a discord bot
 
 https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token
 
 Change the new token of config.json file
+
+```
+cd safecoin
+sudo nano config.json
+```
+
 
 Finally invite the bot to the server
 
