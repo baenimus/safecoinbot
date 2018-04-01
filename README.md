@@ -4,7 +4,7 @@ Enable a simple discord bot via client. The bot should be running with a blockch
 
 ## Pre-requisites
 
-Enable your linux VPS and follow this instructionsDownload this files 
+Enable your linux VPS and follow this instructions
 ```
 cd safecoin
 sudo apt-get install git
