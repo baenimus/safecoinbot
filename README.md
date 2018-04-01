@@ -4,12 +4,13 @@ Enable a simple discord bot via client. The bot should be running with a blockch
 
 ## Pre-requisites
 
+Download this files 
 ```
 cd safecoin
 sudo apt-get install git
 git clone https://github.com/baenimus/safecoinbot.git
-
 ```
+Enable your linux VPS
 
 ## Install latest version of node.js
 
