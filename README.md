@@ -4,13 +4,13 @@ Enable a simple discord bot via client. The bot should be running with a blockch
 
 ## Pre-requisites
 
-Download this files 
+Enable your linux VPS and follow this instructionsDownload this files 
 ```
 cd safecoin
 sudo apt-get install git
 git clone https://github.com/baenimus/safecoinbot.git
 ```
-Enable your linux VPS
+
 
 ## Install latest version of node.js
 
@@ -59,11 +59,13 @@ npm install discord.js
 nohup node app.js &
 ```
 
-## Invite bot to server
+## Create a discord bot
 
-Follow this tutorial to create a discord bot
+Follow this tutorial 
 
 https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token
+
+## Back to VPS
 
 Change the new token of config.json file
 
@@ -71,7 +73,6 @@ Change the new token of config.json file
 cd safecoin
 sudo nano config.json
 ```
-
 
 Finally invite the bot to the server
 
