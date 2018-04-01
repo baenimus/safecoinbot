@@ -39,7 +39,7 @@ cd safecoin
 
 nohup bash mininginfo.sh &
 ```
-Now you have a json file mininginfo.json
+Now you have a json file mininginfo.json. Check it is not empty.
 
 ## Enable discord bot
 ```
@@ -51,5 +51,13 @@ nohup node app.js &
 ```
 
 ## Invite bot to server
+
+Create a discord bot
+
+https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token
+
+Change the new token of config.json file
+
+Finally invite the bot to the server
 
 https://discordapp.com/oauth2/authorize?&client_id=INSERTHEREBOTCLIENTID&scope=bot&permissions=0
