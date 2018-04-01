@@ -1,6 +1,6 @@
 # Safecoin client bot
 
-Enable a simple discord bot via client. The bot should be running with a blockchain explorer but for the moment it uses a exported json file from the client command getmininginfo, it requieres a daemon node with a client available. This tutorial assumes /safecoin is a wallet folder with inner daemon and client. 
+Enable a simple discord bot via client. The bot should be running with a blockchain explorer but for the moment it uses a exported json file from the client command getmininginfo, it requieres a daemon node with a client available. This tutorial assumes /safecoin is a wallet folder with inner daemon and client. For the safety of your safecoins, don't use your own wallet! 
 
 ssh with your linux VPS and follow this instructions:
 
