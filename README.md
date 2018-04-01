@@ -4,7 +4,7 @@ Enable a simple discord bot via client. The bot should be running with a blockch
 
 ssh with your linux VPS and follow this instructions:
 
-## Pre-requisites
+## Git files
 
 ```
 cd safecoin
