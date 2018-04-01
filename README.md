@@ -2,6 +2,17 @@
 
 Enable a simple discord bot via client. The bot should be running with a blockchain explorer but for the moment it uses a exported json file from the client command getmininginfo, it requieres a daemon node with a client available.
 
+## Pre-requisites
+
+Safecoin wallet running
+
+```
+cd safecoin
+sudo apt-get install git
+git clone 
+
+```
+
 ## Install latest version of node.js
 
 ```
@@ -17,7 +28,6 @@ It needs the last version to run properly
 
 ## Run a safecoin node
 
-At this point you need a safecoin daemon and client available. Don't use your personal wallet to run the bot 
 
 ```
 cd safecoin 
