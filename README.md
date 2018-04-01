@@ -42,7 +42,7 @@ Let the wallet get synced
 
 ## Run json file generator
 
-A simple script to generate a json file updated with the last block
+A simple script to generate a json file updated every 20 seconds with last block info
 
 ```
 cd safecoin
