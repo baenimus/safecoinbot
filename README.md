@@ -74,7 +74,8 @@ Change the new token of config.json file
 cd safecoin
 sudo nano config.json
 ```
+## Invite bot to discord server
 
-Finally invite the bot to the server
+If you succesfully enabled the bot you should be able to invite it: 
 
 https://discordapp.com/oauth2/authorize?&client_id=INSERTHEREBOTCLIENTID&scope=bot&permissions=0
